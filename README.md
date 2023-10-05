@@ -66,6 +66,7 @@ Embedded
 <div>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetson_nano-76B900?style=flat-square&logo=NVIDEA&logoColor=white"/>
 </div>
 
 ## Studying
