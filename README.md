@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+<div align="center">
+  <a href="https://blog.naver.com/gnsdudwkd" target="_blank">
+    <img src="https://img.shields.io/badge/차칸막말남-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JangYeonghun" target="_blank">
+    <img src="https://img.shields.io/badge/JangYeonghun-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  </a>
+  <a href="mailto:gnsdudwkd98@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gnsdudwkd98@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>  
+</div>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=JangYeonghun&count_private=true&show_icons=true" alt="GitHub_stat">
 
 ## My Sills
