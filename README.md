@@ -13,6 +13,8 @@
 </div>
 
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
+
 <img src="https://github-readme-stats.vercel.app/api?username=JangYeonghun&count_private=true&show_icons=true" alt="GitHub_stat">
 
 ## My Sills
