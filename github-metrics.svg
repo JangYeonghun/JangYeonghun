@@ -1979,15 +1979,15 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7300613496932513 0,2.7300613496932513 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7300613496932513 1.7,3.7300613496932513 z"/>
                             </g>
-                            <g transform="translate(-6.8, 7.533742331288343)">
+                            <g transform="translate(-6.8, 7.4969325153374236)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.466257668711656 0,3.4662576687116564 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.4662576687116564 1.7,4.466257668711656 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.5030674846625764 0,3.5030674846625764 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.5030674846625764 1.7,4.5030674846625764 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.374233128834355)">
+                            <g transform="translate(-8.5, 10.337423312883436)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.625766871165644 0,1.6257668711656441 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6257668711656441 1.7,2.625766871165644 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.662576687116564 0,1.6625766871165644 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6625766871165644 1.7,2.662576687116564 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.595092024539877)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
